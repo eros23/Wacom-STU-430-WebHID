@@ -1,4 +1,4 @@
-# Firma e Salva - STU‑430
+# Firma e Salva - wacom STU‑430
 
 Questo progetto permette di utilizzare la tavoletta digitale Wacom STU‑430 per firmare digitalmente e salvare la firma come immagine PNG con sfondo trasparente.
 
