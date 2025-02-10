@@ -1,6 +1,7 @@
 # Firma e Salva - Wacom STU‑430
 
-Questo progetto utilizza una tavoletta grafometrica Wacom STU‑430 per catturare una firma digitale e salvarla come immagine PNG. **Nota:** La firma digitale generata con questo strumento **non ha valenza legale**; viene usata esclusivamente per produrre una grafica in formato PNG della firma.
+Questo progetto utilizza una tavoletta grafometrica Wacom STU‑430 per catturare una firma digitale e salvarla come immagine PNG. 
+**Nota:** La firma digitale generata con questo strumento **non ha valenza legale**; viene usata esclusivamente per produrre una grafica in formato PNG della firma.
 
 ## Cosa Fa
 
